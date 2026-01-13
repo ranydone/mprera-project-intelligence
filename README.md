@@ -174,6 +174,8 @@ Real estate analytics and regulatory intelligence
 
 This project is intended for educational and research purposes using publicly accessible data.
 
+mp rera mp total count is scraper for all projects of MP - BHOPAL
+
 🔗 Author
 
 Ranjit Mishra
